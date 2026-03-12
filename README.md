@@ -1,6 +1,6 @@
 # Segmentbasierte Klassifikation von ventrikulären Arrhythmien durch ML
 Dieses Repository enthält den entwickelten Code im Rahmen der Bachelorarbeit:
-Maschinelles Lernen zur segmentbasierten Klassifikation maligner ventrikulärer Arrhythmien im Kontext implantierbarer Kardioverter-Defibrillatoren.
+**Maschinelles Lernen zur segmentbasierten Klassifikation maligner ventrikulärer Arrhythmien im Kontext implantierbarer Kardioverter-Defibrillatoren.**
 
 In diesem Projekt wird untersucht, wie ML auf EKG-Daten angewendet werden kann, um lebensbedrohliche Herzrhythmusstörungen zuverlässig zu erkennen. Es enthält den Code für Preprocessing, Feature-Exraktion, Modell Training und Evaluation.
 
